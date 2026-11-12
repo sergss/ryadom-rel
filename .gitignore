@@ -1,0 +1,8 @@
+*
+!.gitignore
+!README.md
+!update.json
+!releases/
+!releases/*/
+!releases/*/release.json
+!releases/*/Ryadom-*.apk
