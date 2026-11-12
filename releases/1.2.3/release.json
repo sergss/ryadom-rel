@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "applicationId": "local.mesager.app",
+  "version": "1.2.3",
+  "versionCode": 1002003,
+  "minAndroidSdk": 26,
+  "notes": "Исправлена подготовка выпусков приложения на Windows.\nВозможности общения соответствуют версии 1.2.0.",
+  "signingCertificateSha256": "47f29cc9ef414424639892227913a3d56453b6cb792032438621b5b4ed70316b",
+  "artifacts": [
+    {
+      "architecture": "arm64-v8a",
+      "url": "releases/1.2.3/Ryadom-1.2.3-arm64-v8a.apk",
+      "size": 9085133,
+      "sha256": "a959d9c1db44272ca7130e82c7153fcf6f2b3cfae066db4c9cec979b60b1c396"
+    }
+  ]
+}
