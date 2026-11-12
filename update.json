@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
   "applicationId": "local.mesager.app",
-  "version": "1.2.3",
-  "versionCode": 1002003,
+  "version": "1.3.0",
+  "versionCode": 1003000,
   "minAndroidSdk": 26,
-  "notes": "Исправлена подготовка выпусков приложения на Windows.\nВозможности общения соответствуют версии 1.2.0.",
+  "notes": "Добавлено обновление приложения через кнопку в шапке слева от «Поделиться».\nВ окне обновления видны изменения, размер файла и ход загрузки.\nКнопки обновления и профиля получили тёмные рамки и одинаковую высоту с «Поделиться».",
   "signingCertificateSha256": "47f29cc9ef414424639892227913a3d56453b6cb792032438621b5b4ed70316b",
   "artifacts": [
     {
       "architecture": "arm64-v8a",
-      "url": "releases/1.2.3/Ryadom-1.2.3-arm64-v8a.apk",
-      "size": 9085133,
-      "sha256": "a959d9c1db44272ca7130e82c7153fcf6f2b3cfae066db4c9cec979b60b1c396"
+      "url": "releases/1.3.0/Ryadom-1.3.0-arm64-v8a.apk",
+      "size": 9098409,
+      "sha256": "c0a46d06df59c3d314a22dc4befea595bf4808c95502cf1ec7985e4ddbd0da15"
     }
   ]
 }
