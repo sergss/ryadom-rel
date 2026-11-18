@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "applicationId": "local.mesager.app",
+  "version": "1.6.2",
+  "versionCode": 1006002,
+  "minAndroidSdk": 26,
+  "notes": "Убрана лишняя стрелка рядом со значком участников в шапке группы. Создатель открывает управление группой нажатием на её название слева. Кнопка участников справа открывает список участников.",
+  "signingCertificateSha256": "47f29cc9ef414424639892227913a3d56453b6cb792032438621b5b4ed70316b",
+  "artifacts": [
+    {
+      "architecture": "arm64-v8a",
+      "url": "releases/1.6.2/Ryadom-1.6.2-arm64-v8a.apk",
+      "size": 9009159,
+      "sha256": "6caaf4bd6f35615363ab5d00660bd6b1bce8638db7479664b51550ad7b8b1492"
+    }
+  ]
+}
